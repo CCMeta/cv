@@ -4,12 +4,14 @@
  - 本科 / 黑龙江大学环境科学系 
  - 工作年限: 8年
  - 期望职位: .NET高级开发工程师
-# 联系方式
+# 联系方式 / 社交平台
 - Blog: https://ccmeta.com
 - GitHub: http://github.com/ccmeta
 - Mobile: 17832719200 
 - Email: ccmeta@icloud.com
 - WeChat: 67115592
+- Douban: https://www.douban.com/people/angelhorn/
+- Zhihu: https://www.zhihu.com/people/zhao-yun-peng-61
 # 自我简介
 - **熟练掌握.NET Core/ASP.NET Core/WPF/XAML/精通C#/熟悉CLR/EntityFramework**
 - 熟练掌握PHP以及框架。Laravel、ThinkPHP、Phalcon等主流框架，AOP.MVC
@@ -18,7 +20,7 @@
 - 熟练掌握前端JavaScript技术React/Vue,熟悉 MVVM模式/ES6/REST/RPC/TDD测试驱动开发/DDD领域驱动设计
 - 熟练掌握Linux系统应用/常用命令/docker，掌握Nginx/IIS等常用Web服务应用
 - 学习互联网20年/4年管理经验/自学计算机课程/同理心强/自学能力强/左撇子
-
+- 爱好：数理逻辑/哲学/历史/二次元/Steam/游戏化
 
 # 工作经历
 
