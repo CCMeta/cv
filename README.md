@@ -94,8 +94,8 @@
 
 # 技能清单
 
-- Web开发: PHP / Java / Node / Nginx / Swoole / .NET CORE
-- Web框架: ThinkPHP / Yaf / Lavarel / Phalcon / Koa2 / Jooby / ASP.NET CORE / blazor
+- 开发技能:  .NET CORE / PHP / Java / Node / Nginx / Swoole /
+- 语言框架: ASP.NET CORE / Blazor / ThinkPHP / Yaf / Lavarel / Phalcon / Koa2 / Jooby / 
 - 前端技术: ANTD / AngularJS / React / Redux / Vue / uniapp / Webpack / SaSS / Canvas
 - 数据库相关: MySQL / PgSQL / PDO / SQLite / Redis
 - 版本管理、文档和自动化部署工具: Git / Composer / Nuget / Docker / Swagger
