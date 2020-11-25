@@ -7,7 +7,7 @@
 # 联系方式 / 社交平台
 - Mobile: 178 3271 9200 
 - Email: ccmeta@icloud.com
-- Blog: https://ccmeta.com
+- Blog: https://typecho.ccmeta.com
 - GitHub: http://github.com/ccmeta
 - Douban: https://www.douban.com/people/angelhorn/
 - Zhihu: https://www.zhihu.com/people/zhao-yun-peng-61
