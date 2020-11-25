@@ -7,7 +7,6 @@
  - Github：http://github.com/ccmeta
 
  - 期望职位：.NET高级程序员
- - 期望薪资：税前月薪15k~20k
 # 联系方式
 - 手机：17832719200 
 - Email：ccmeta@icloud.com
