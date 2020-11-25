@@ -1,16 +1,14 @@
 
 # 个人信息
-
  - 赵云鹏/男/1989 
  - 本科/黑龙江大学环境科学系 
  - 工作年限：8年
- - 技术博客：https://typecho.ccmeta.com
+ - 技术博客：https://ccmeta.com
  - Github：http://github.com/ccmeta
 
  - 期望职位：.NET高级程序员
  - 期望薪资：税前月薪15k~20k
 # 联系方式
-
 - 手机：17832719200 
 - Email：ccmeta@icloud.com
 - QQ/微信号：67115592
@@ -72,7 +70,9 @@
 - 使用技术：PHP, JS, MySQL, PDO, Redis, Python, jQuery, PyQuery
 
 # 开源项目和作品
-
+### shadow-board （WebRTC/RTCWhiteboard）
+-  Datachannel通信互动白板与WebRTC音频通信
+- 项目链接:  [https://shadow-board.ccmeta.com](https://shadow-board.ccmeta.com/)
 ### Gamification （React/PHP）
 - 《Gamification》是一款跨设备同步的个人GTD管理应用软件， 主要功能是记录与管理每日的个人事务，记录下所有待办事项并通过提醒， 协作等功能帮助使用者完成所有的任务，让生活和工作变得有条理。 
 - 后端：采用php-Phalcon进行API接口开发，MySQL+Redis进行数据存储。Web服务器为Ubuntu下的Nginx。 
@@ -80,6 +80,8 @@
 - 前端：集成D3.js开发的动态图表。 
 - 前端：采用react-native-material-kit作为iOS端的UI组件库。
 - 项目链接:  [https://github.com/CCMeta/gamification](https://github.com/CCMeta/gamification)
+- 项目链接:  [https://github.com/CCMeta/gamification-react-js](https://github.com/CCMeta/gamification-react-js)
+- 项目链接:  [https://github.com/CCMeta/gamification-react-native](https://github.com/CCMeta/gamification-react-native)
 ### 气球大战（U3D/C#） 
 - 负责Spriter精灵图生成。 
 - 负责C#脚本代码的编写。 
@@ -99,7 +101,7 @@
 - 数据库相关：MySQL/PgSQL/PDO/SQLite/Redis
 - 版本管理、文档和自动化部署工具：Git/Composer/Nuget/Docker/Swagger
 - 开放平台：Docker/微信应用开发
-- 应用软件：Unity3D/Photoshop/AI/
+- 应用软件：Unity3D/Photoshop/AI/Final Cut Pro/Cubase
       
 ---      
 # 致谢
