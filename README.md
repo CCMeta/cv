@@ -4,7 +4,7 @@
  - 赵云鹏/男/1989 
  - 本科/黑龙江大学环境科学系 
  - 工作年限：8年
- - 技术博客：https://ccmeta.com
+ - 技术博客：https://typecho.ccmeta.com
  - Github：http://github.com/ccmeta
 
  - 期望职位：.NET高级程序员
