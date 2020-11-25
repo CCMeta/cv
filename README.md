@@ -6,8 +6,8 @@
  - 期望职位：.NET高级开发工程师
 # 联系方式
 - Blog：https://ccmeta.com
-- Github：http://github.com/ccmeta
-- TEL：17832719200 
+- GitHub：http://github.com/ccmeta
+- Mobile：17832719200 
 - Email：ccmeta@icloud.com
 - WeChat：67115592
 # 自我简介
