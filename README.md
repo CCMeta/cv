@@ -64,7 +64,7 @@
 - 项目链接: [http://www.hzpnc.com](http://www.hzpnc.com)
 
   ## 杭州成商电子商务 （ 2013年1月 ~ 2013年10月 ）
-  ### 《Freemerce》
+### 《Freemerce》
 - 负责JS爬虫、python爬虫脚本的编写，负责后端PHP以及前端JS抓取任务管理系统的编写。
 - 使用技术：PHP, JS, MySQL, PDO, Redis, Python, jQuery, PyQuery
 
