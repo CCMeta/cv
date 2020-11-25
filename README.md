@@ -5,11 +5,10 @@
  - 工作年限: 8年
  - 期望职位: .NET高级开发工程师
 # 联系方式 / 社交平台
-- Blog: https://ccmeta.com
-- GitHub: http://github.com/ccmeta
 - Mobile: 17832719200 
 - Email: ccmeta@icloud.com
-- WeChat: 67115592
+- Blog: https://ccmeta.com
+- GitHub: http://github.com/ccmeta
 - Douban: https://www.douban.com/people/angelhorn/
 - Zhihu: https://www.zhihu.com/people/zhao-yun-peng-61
 # 自我简介
