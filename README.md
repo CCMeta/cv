@@ -49,7 +49,7 @@
 - 负责《匹诺曹律师》管理后台的开发。 
 - 负责《匹诺曹律师》WebIM客户端的开发。 
 
-- 后端：Restful API接口采用Lumen框架进行开发，是Lumen专门为开发API接口存在的框架，不臃肿，可以最大化速度。Web服务器为Ubuntu下的Nginx。 
+- 后端：Restful API接口采用Lumen框架进行开发，是Lumen专门为开发API接口存在的框架。Web服务器Nginx。 
 - 后端：管理后台后端采用Laravel框架，最大化集成框架的功能性。 便于管理后台的开发。 
 - 后端：采用MySQL+Redis的数据存储与缓存。MySQL采用主从复制和读写分离结构，来提升数据库的并发负载能力。 
 - 后端：架设zabbix进行服务器资源监控。 
