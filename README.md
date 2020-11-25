@@ -1,12 +1,12 @@
 
 # 个人信息
- - 赵云鹏/男/1989 
+ - 赵云鹏 / 男 / 1989 
  - 本科/黑龙江大学环境科学系 
  - 工作年限：8年
  - 技术博客：https://ccmeta.com
  - Github：http://github.com/ccmeta
 
- - 期望职位：.NET高级程序员
+ - 期望职位：.NET高级开发工程师
 # 联系方式
 - 手机：17832719200 
 - Email：ccmeta@icloud.com
