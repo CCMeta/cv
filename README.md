@@ -20,8 +20,8 @@
 - 熟练掌握RabbitMQ/Redis/docker等常用工具，MySQL/PgSQL/SQL Server等常用数据库
 - 熟练掌握前端JavaScript技术React/Vue,熟悉 MVVM模式/ES6/REST/RPC/TDD测试驱动开发/DDD领域驱动设计
 - 熟练掌握Linux系统应用/常用命令/docker，掌握Nginx/IIS等常用Web服务应用
-- 学习互联网20年/4年管理经验/自学计算机课程/同理心强/自学能力强/左撇子
-- 爱好：数理逻辑/哲学/历史/二次元/Steam/游戏化
+- 学习互联网20年/4年管理经验/自学计算机全部课程/同理心强/自学能力强/左撇子
+- 爱好：数理逻辑/哲学/历史/二次元/Steam/游戏化/Darkwave
 
 # 工作经历
 
