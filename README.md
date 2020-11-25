@@ -4,6 +4,7 @@
  - 本科 / 黑龙江大学环境科学系 
  - 工作年限: 8年
  - 期望职位: .NET高级开发工程师
+ 
 # 联系方式 / 社交平台
 - Mobile: 178 3271 9200 
 - Email: ccmeta@icloud.com
@@ -11,6 +12,7 @@
 - GitHub: http://github.com/ccmeta
 - Douban: https://www.douban.com/people/angelhorn/
 - Zhihu: https://www.zhihu.com/people/zhao-yun-peng-61
+
 # 自我简介
 - **熟练掌握.NET Core/ASP.NET Core/WPF/XAML/精通C#/熟悉CLR/EntityFramework**
 - 熟练掌握PHP以及框架。Laravel、ThinkPHP、Phalcon等主流框架，AOP.MVC
@@ -47,7 +49,6 @@
 - 负责《匹诺曹律师》服务端开发与整体架构设计。 
 - 负责《匹诺曹律师》管理后台的开发。 
 - 负责《匹诺曹律师》WebIM客户端的开发。 
-
 - 后端：Restful API接口采用Lumen框架进行开发，是Lumen专门为开发API接口存在的框架。Web服务器Nginx。 
 - 后端：管理后台后端采用Laravel框架，最大化集成框架的功能性。 便于管理后台的开发。 
 - 后端：采用MySQL+Redis的数据存储与缓存。MySQL采用主从复制和读写分离结构，来提升数据库的并发负载能力。 
@@ -57,21 +58,25 @@
 - 前端：管理后台前端采用jQuery, easyui, Bootstrap，集成D3.js开发图表。 
 - 前端：用户后台采用React+Redux开发。严格使用 Flux 组织代码和安排内部逻辑，易于开发和维护。  
 - 项目链接: [http://pnc516.com](http://pnc516.com)
+
 ### 《匹诺曹通话录音》
 - 为产品移动端以及产品网页端提供API数据接口，包括支付、条目获取、下载、活动页面等功能。 
 - 重构WEB端原有功能(原有C++扩展更换成调用Lua接口)；开发软件新版本中的功能，解决遗留的BUG。
 - 使用技术：Laravel, Lumen, MySQL, Linux, Nginx, Redis
 - 项目链接: [http://www.hzpnc.com](http://www.hzpnc.com)
 
-  ## 杭州成商电子商务 （ 2013年1月 ~ 2013年10月 ）
+## 杭州成商电子商务 （ 2013年1月 ~ 2013年10月 ）
+
 ### 《Freemerce》
 - 负责JS爬虫、python爬虫脚本的编写，负责后端PHP以及前端JS抓取任务管理系统的编写。
 - 使用技术：PHP, JS, MySQL, PDO, Redis, Python, jQuery, PyQuery
 
 # 开源项目和作品
+
 ### shadow-board （WebRTC/RTCWhiteboard）
 -  Datachannel通信互动白板与WebRTC音频通信
 - 项目链接:  [https://shadow-board.ccmeta.com](https://shadow-board.ccmeta.com/)
+
 ### Gamification （React/PHP）
 - 《Gamification》是一款跨设备同步的个人GTD管理应用软件， 主要功能是记录与管理每日的个人事务，记录下所有待办事项并通过提醒， 协作等功能帮助使用者完成所有的任务，让生活和工作变得有条理。 
 - 后端：采用php-Phalcon进行API接口开发，MySQL+Redis进行数据存储。Web服务器为Ubuntu下的Nginx。 
@@ -81,11 +86,13 @@
 - 项目链接:  [https://github.com/CCMeta/gamification](https://github.com/CCMeta/gamification)
 - 项目链接:  [https://github.com/CCMeta/gamification-react-js](https://github.com/CCMeta/gamification-react-js)
 - 项目链接:  [https://github.com/CCMeta/gamification-react-native](https://github.com/CCMeta/gamification-react-native)
+
 ### 气球大战（U3D/C#） 
 - 负责Spriter精灵图生成。 
 - 负责C#脚本代码的编写。 
 - 负责角色设计、界面设计、功能设计。 
 - 项目链接:  [https://github.com/AngelHorn/UnityBalloonBattle](https://github.com/AngelHorn/UnityBalloonBattle)
+
 ### 天使游戏(仿豆瓣网模式游戏站)（PHP/jQuery）
 - 描述: 一个仿照豆瓣模式的游戏记录和分享站点。其中有游戏搜索，游戏详情介绍、评论、攻略、评分、友邻广播、好友系统、短消息系统等。
 - 采用LAMP架构，ThinkPHP框架开发。 PyQuery爬取游戏数据。
