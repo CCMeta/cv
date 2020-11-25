@@ -5,13 +5,13 @@
 - Email：ccmeta@icloud.com
 - QQ/微信号：67115592
 # 自我简介
-** 熟练掌握.NET Core/ASP.NET Core/WPF/XAML/精通C#/熟悉CLR/EntityFramework **
-熟练掌握PHP以及框架。Laravel、ThinkPHP、Phalcon等主流框架，AOP.MVC
-能够运用Python、GO、Shell、等语言进行自动化作业。
-熟练掌握RabbitMQ/Redis/docker等常用工具，MySQL/PgSQL/SQL Server等常用数据库
-熟练掌握前端JavaScript技术React/Vue/jQuery等,熟悉 MVVM模式/ES6/REST/RPC/TDD测试驱动开发/DDD领域驱动设计
-熟练掌握Linux系统应用/常用命令/docker，掌握Nginx/IIS等常用Web服务应用
-互联网20年/4年管理经验/自学计算机课程/同理心强/自学能力强/左撇子
+- ** 熟练掌握.NET Core/ASP.NET Core/WPF/XAML/精通C#/熟悉CLR/EntityFramework **
+- 熟练掌握PHP以及框架。Laravel、ThinkPHP、Phalcon等主流框架，AOP.MVC
+- 能够运用Python、GO、Shell、等语言进行自动化作业。
+- 熟练掌握RabbitMQ/Redis/docker等常用工具，MySQL/PgSQL/SQL Server等常用数据库
+- 熟练掌握前端JavaScript技术React/Vue/jQuery等,熟悉 MVVM模式/ES6/REST/RPC/TDD测试驱动开发/DDD领域驱动设计
+- 熟练掌握Linux系统应用/常用命令/docker，掌握Nginx/IIS等常用Web服务应用
+- 学习互联网20年/4年管理经验/自学计算机课程/同理心强/自学能力强/左撇子
 
 # 个人信息
 
