@@ -94,13 +94,13 @@
 
 # 技能清单
 
-- Web开发: PHP/Java/Node/Nginx/Swoole/ASP.NET CORE
-- Web框架: ThinkPHP/Yaf/Lavarel/Phalcon/Koa2/Jooby/ASP.NET CORE/blazor
-- 前端技术: ANTD/AngularJS/React/Redux/Vue/uniapp/Webpack/SaSS/Canvas
-- 数据库相关: MySQL/PgSQL/PDO/SQLite/Redis
-- 版本管理、文档和自动化部署工具: Git/Composer/Nuget/Docker/Swagger
-- 开放平台: Docker/微信应用开发
-- 应用软件: Unity3D/Photoshop/AI/Final Cut Pro/Cubase
+- Web开发: PHP / Java / Node / Nginx / Swoole / ASP.NET CORE
+- Web框架: ThinkPHP / Yaf / Lavarel / Phalcon / Koa2 / Jooby / ASP.NET CORE / blazor
+- 前端技术: ANTD / AngularJS / React / Redux / Vue / uniapp / Webpack / SaSS / Canvas
+- 数据库相关: MySQL / PgSQL / PDO / SQLite / Redis
+- 版本管理、文档和自动化部署工具: Git / Composer / Nuget / Docker / Swagger
+- 开放平台: Docker / 微信应用开发
+- 应用软件: Unity3D / Photoshop / AI / Final Cut Pro / Cubase
       
 ---      
 # 致谢
