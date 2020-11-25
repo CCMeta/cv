@@ -5,7 +5,7 @@
 - Email：ccmeta@icloud.com
 - QQ/微信号：67115592
 # 自我简介
-- ** 熟练掌握.NET Core/ASP.NET Core/WPF/XAML/精通C#/熟悉CLR/EntityFramework **
+- **熟练掌握.NET Core/ASP.NET Core/WPF/XAML/精通C#/熟悉CLR/EntityFramework**
 - 熟练掌握PHP以及框架。Laravel、ThinkPHP、Phalcon等主流框架，AOP.MVC
 - 能够运用Python、GO、Shell、等语言进行自动化作业。
 - 熟练掌握RabbitMQ/Redis/docker等常用工具，MySQL/PgSQL/SQL Server等常用数据库
