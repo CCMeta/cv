@@ -73,7 +73,7 @@
 
 ### shadow-board （WebRTC/RTCWhiteboard）
 -  Datachannel通信互动白板与WebRTC音频通信
-- 项目链接:  [https://shadow-board.ccmeta.com](https://shadow-board.ccmeta.com/)
+- 项目链接:  [https://xamarin-web.ccmeta.com/web-rtc-canvas-channel.html](https://xamarin-web.ccmeta.com/web-rtc-canvas-channel.html)
 
 ### Gamification （React/PHP）
 - 《Gamification》是一款跨设备同步的个人GTD管理应用软件， 主要功能是记录与管理每日的个人事务，记录下所有待办事项并通过提醒， 协作等功能帮助使用者完成所有的任务，让生活和工作变得有条理。 
