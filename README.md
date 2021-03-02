@@ -3,7 +3,6 @@
  - 赵云鹏 / 男 / 1989 
  - 本科 / 黑龙江大学环境科学系 
  - 工作年限: 8年
- - 期望职位: .NET高级开发工程师
  
 # 联系方式 / 社交平台
 - Mobile: 178 3271 9200 
@@ -105,11 +104,8 @@
 - 语言框架: **ASP.NET CORE** / **Phalcon** / Blazor / ThinkPHP / Yaf / Lavarel  / Koa2 / Jooby / 
 - 前端技术: **React** / ANTD / AngularJS / Redux / Vue / uniapp / SaSS / Canvas
 - 数据库相关: **MySQL** / **Entity Framework** / PgSQL / SQLite / Redis 
-- 版本管理、文档和自动化部署工具: Git / Composer / Nuget / Docker / Swagger
+- 文档部署工具: Git / Composer / Nuget / Docker / Swagger
 - 开放平台: Docker / 微信应用开发 / Linux
 - 应用软件: Unity3D / Photoshop / AI / Final Cut Pro / Cubase
-      
----      
-# 致谢
-感谢您花时间阅读我的简历，期待能有机会和您共事。
+
       
