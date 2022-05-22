@@ -19,7 +19,7 @@
 - **熟练掌握Android-SDK、Java/Kotlin、XML、NDK等移动端开发技术**
 - 熟练掌握TCP/IP、HTTP、Socket等网络协议，REST协议、RPC通信等技术
 - 熟练掌握RabbitMQ/Redis/docker等常用工具，MySQL/PgSQL/SQL Server等常用数据库
-- 熟练掌握JavaScript技术, React/Vue/JQ等框架, 熟悉 MVVM模式/ES6/HTML5/CSS3 等前端技术
+- 熟练掌握JavaScript, React/Vue/JQ等框架, 熟悉 MVVM模式/ES6/HTML5/CSS3 等前端技术
 - 学习互联网20年/4年管理经验/自学计算机全部课程/同理心强/自学能力强/左撇子
 - 技术特点：比较出色的Debug能力/伪全栈/产品设计思维/
 - 爱好：数理逻辑/哲学/历史/二次元/Steam/游戏化/Darkwave
