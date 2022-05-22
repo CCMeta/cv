@@ -7,7 +7,7 @@
 - Mobile: 139 3661 5515 
 - Email: ccmeta@icloud.com
 - Blog: https://typecho.ccmeta.com
-- GitHub: http://github.com/ccmeta
+- GitHub: https://github.com/ccmeta
 - Douban: https://www.douban.com/people/angelhorn/
 - Zhihu: https://www.zhihu.com/people/zhao-yun-peng-61
 
@@ -16,7 +16,7 @@
 - **熟练掌握PHP以及框架。Laravel、ThinkPHP、Phalcon等主流框架，AOP.MVC**
 - **熟练掌握Linux系统应用/常用命令/docker，掌握Nginx/IIS等常用Web服务应用，能够运用Python、GO、Shell、C等语言进行脚本编写以及自动化作业**
 - **熟练掌握Java8、Spring、Maven、tomcat、mybatis常用的后端Java开发技术**
-- - **熟练掌握Android-SDK、Java/Kotlin、XML、NDK等移动端开发技术**
+- **熟练掌握Android-SDK、Java/Kotlin、XML、NDK等移动端开发技术**
 - 熟练掌握TCP/IP、HTTP、Socket等网络协议，REST协议、RPC通信等技术
 - 熟练掌握RabbitMQ/Redis/docker等常用工具，MySQL/PgSQL/SQL Server等常用数据库
 - 熟练掌握前端JavaScript技术React/Vue/JQ,熟悉 MVVM模式/ES6等前端技术
