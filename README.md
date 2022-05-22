@@ -12,17 +12,28 @@
 - Zhihu: https://www.zhihu.com/people/zhao-yun-peng-61
 
 # 自我简介
-- **熟练掌握.NET Core/ASP.NET Core/WPF/XAML/精通C#/熟悉CLR/EntityFramework**
+- **熟练掌握.NET Core/ASP.NET Core/Xamarin/XAML/精通C#/熟悉CLR/EntityFramework**
 - **熟练掌握PHP以及框架。Laravel、ThinkPHP、Phalcon等主流框架，AOP.MVC**
-- **熟练掌握Linux系统应用/常用命令/docker，掌握Nginx/IIS等常用Web服务应用**
-- 能够运用Python、GO、Shell、等语言进行自动化作业。
+- **熟练掌握Linux系统应用/常用命令/docker，掌握Nginx/IIS等常用Web服务应用，能够运用Python、GO、Shell、C等语言进行脚本编写以及自动化作业**
+- **熟练掌握Java8、Spring、Maven、tomcat、mybatis常用的后端Java开发技术**
+- - **熟练掌握Android-SDK、Java/Kotlin、XML、NDK等移动端开发技术**
+- 熟练掌握TCP/IP、HTTP、Socket等网络协议，REST协议、RPC通信等技术
 - 熟练掌握RabbitMQ/Redis/docker等常用工具，MySQL/PgSQL/SQL Server等常用数据库
-- 熟练掌握前端JavaScript技术React/Vue,熟悉 MVVM模式/ES6/REST/RPC/TDD测试驱动开发/DDD领域驱动设计
+- 熟练掌握前端JavaScript技术React/Vue/JQ,熟悉 MVVM模式/ES6等前端技术
 - 学习互联网20年/4年管理经验/自学计算机全部课程/同理心强/自学能力强/左撇子
 - 技术特点：比较出色的Debug能力/伪全栈/产品设计思维/
 - 爱好：数理逻辑/哲学/历史/二次元/Steam/游戏化/Darkwave
 
 # 工作经历
+
+## 杭州匹诺曹科技 （ 2021年2月 ~ 2021年12月 ）
+
+### 《企智喵》 
+- 负责《企智喵》后端Spring代码开发和维护、包括HTTP、Websocket、缓存Redis
+- 负责与移动端APP进行API通信开发制定。
+- 负责产品Vue后台前端页面的开发与维护。
+- 负责服务器安全、存储协议架构
+
 
 ## 杭州助普科技 （ 2017年1月 ~ 2021年1月 ）
 
