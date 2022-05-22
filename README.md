@@ -112,11 +112,11 @@
 # 技能清单
 
 - 开发技能:  **.NET CORE** / **PHP** / Java / Node / Nginx / Swoole
-- 语言框架: **ASP.NET CORE** / **Phalcon** / Blazor / ThinkPHP / Yaf / Lavarel  / Koa2 / Jooby / 
-- 前端技术: **React** / ANTD / AngularJS / Redux / Vue / uniapp / SaSS / Canvas
-- 数据库相关: **MySQL** / **Entity Framework** / PgSQL / SQLite / Redis 
-- 文档部署工具: Git / Composer / Nuget / Docker / Swagger
-- 开放平台: Docker / 微信应用开发 / Linux
+- 语言框架: **ASP.NET CORE** / **Spring** / Blazor / Yaf / Lavarel  / Koa2 / Jooby / 
+- 前端技术: **React** / Vue / ANTD / AngularJS / Redux / uniapp / SaSS / Canvas
+- 数据库相关: **MySQL** / **SQLServer** / PgSQL / SQLite / Redis 
+- 文档部署工具: Git / Composer / Maven / Nuget / Docker / Swagger
+- 系统开发: Docker / 微信应用开发 / Linux
 - 应用软件: Unity3D / Photoshop / AI / Final Cut Pro / Cubase
 
       
