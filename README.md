@@ -6,10 +6,7 @@
 # 联系方式 / 社交平台
 - Mobile: 139 3661 5515 
 - Email: ccmeta@icloud.com
-- Blog: https://typecho.ccmeta.com
 - GitHub: https://github.com/ccmeta
-- Douban: https://www.douban.com/people/angelhorn/
-- Zhihu: https://www.zhihu.com/people/zhao-yun-peng-61
 
 # 自我简介
 - **熟练掌握.NET Core/ASP.NET Core/Xamarin/XAML/精通C#/熟悉CLR/EntityFramework**
