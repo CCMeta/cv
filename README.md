@@ -11,7 +11,7 @@
 # 自我简介
 - **熟练掌握.NET Core/ASP.NET Core/Xamarin/XAML/精通C#/熟悉CLR/EntityFramework**
 - **熟练掌握PHP以及框架。Laravel/ThinkPHP/Phalcon等主流框架，AOP.MVC等模式**
-- **熟练掌握Linux系统应用/常用命令/Socker，掌握Nginx/IIS等常用Web服务应用，能够运用Python、Go、Shell、C等语言进行脚本编写以及自动化作业**
+- **熟练掌握Linux系统应用/常用命令/Docker，掌握Nginx/IIS等常用Web服务应用，能够运用Python、Go、Shell、C等语言进行脚本编写以及自动化作业**
 - **熟练掌握Java8/Spring/Maven/Tomcat/Mybatis常用的后端Java开发技术**
 - 熟练掌握TCP/HTTP/Socket/REST协议/RPC通信等技术，熟悉操作系统原理/计算机网络原理
 - 熟练掌握RabbitMQ/Redis/Docker等常用工具，MySQL/PgSQL/SQLServer等常用数据库
